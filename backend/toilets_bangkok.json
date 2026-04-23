@@ -1,0 +1,7483 @@
+[
+  {
+    "osm_type": "node",
+    "osm_id": 311075544,
+    "lat": 13.7269994,
+    "lon": 100.5441236,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 311075559,
+    "lat": 13.7285979,
+    "lon": 100.542408,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 382927282,
+    "lat": 13.6864849,
+    "lon": 100.6650564,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 382927363,
+    "lat": 13.6852475,
+    "lon": 100.6640373,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 382927448,
+    "lat": 13.6814467,
+    "lon": 100.6628739,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 385047348,
+    "lat": 13.6800552,
+    "lon": 100.6605015,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 385949251,
+    "lat": 13.6897583,
+    "lon": 100.668278,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 385949328,
+    "lat": 13.6899474,
+    "lon": 100.6643259,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 387743334,
+    "lat": 13.6900284,
+    "lon": 100.663079,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 388595261,
+    "lat": 13.690455,
+    "lon": 100.6623534,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 390321529,
+    "lat": 13.8061037,
+    "lon": 100.5549872,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 390321628,
+    "lat": 13.8024563,
+    "lon": 100.55327,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 390321643,
+    "lat": 13.8088395,
+    "lon": 100.5568737,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 390321679,
+    "lat": 13.8130227,
+    "lon": 100.5577557,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 390681653,
+    "lat": 13.8093771,
+    "lon": 100.5557897,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 393149614,
+    "lat": 13.6869889,
+    "lon": 100.6599921,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 393149687,
+    "lat": 13.6877856,
+    "lon": 100.6608034,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 566166278,
+    "lat": 13.6771567,
+    "lon": 100.677632,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 599454081,
+    "lat": 13.7530952,
+    "lon": 100.5073014,
+    "amenity": "toilets",
+    "source": "survey"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 676016998,
+    "lat": 13.6933425,
+    "lon": 100.6642117,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 706214635,
+    "lat": 13.7861391,
+    "lon": 100.6720031,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 706214637,
+    "lat": 13.7865677,
+    "lon": 100.673503,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 724267961,
+    "lat": 13.8081126,
+    "lon": 100.5524437,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 724267976,
+    "lat": 13.8092529,
+    "lon": 100.5545627,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 724267992,
+    "lat": 13.8109882,
+    "lon": 100.5507521,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 724267999,
+    "lat": 13.8117796,
+    "lon": 100.5509773,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 724268000,
+    "lat": 13.8115945,
+    "lon": 100.5509072,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 724268004,
+    "lat": 13.8119321,
+    "lon": 100.5556652,
+    "access": "yes",
+    "addr:floor": "G",
+    "amenity": "toilets",
+    "check_date": "2024-11-09",
+    "fee": "no",
+    "level": "0",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 735130594,
+    "lat": 13.7181667,
+    "lon": 100.7814508,
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2022-03-02",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 933165077,
+    "lat": 13.703733,
+    "lon": 100.7354114,
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 972490597,
+    "lat": 13.8036002,
+    "lon": 100.5498595,
+    "amenity": "toilets",
+    "check_date": "2025-01-22",
+    "check_date:wheelchair": "2025-01-22",
+    "fee": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 972500930,
+    "lat": 13.8074889,
+    "lon": 100.5491861,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 981174180,
+    "lat": 13.8077887,
+    "lon": 100.5540035,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1011038834,
+    "lat": 13.7491781,
+    "lon": 100.4959544,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1020422252,
+    "lat": 13.7498181,
+    "lon": 100.5026494,
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2025-12-08",
+    "check_date:wheelchair": "2025-12-08",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1022937792,
+    "lat": 13.7484097,
+    "lon": 100.5017413,
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1072055825,
+    "lat": 13.6824835,
+    "lon": 100.6571816,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1072060983,
+    "lat": 13.683909,
+    "lon": 100.6561258,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1072064624,
+    "lat": 13.6832645,
+    "lon": 100.6577769,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1078659803,
+    "lat": 13.7626451,
+    "lon": 100.7343521,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1078659989,
+    "lat": 13.7646058,
+    "lon": 100.7314972,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1078686689,
+    "lat": 13.7624918,
+    "lon": 100.7312928,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1099086870,
+    "lat": 13.8621187,
+    "lon": 100.5159059,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1099272110,
+    "lat": 13.8810802,
+    "lon": 100.4832146,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1374641693,
+    "lat": 13.844204,
+    "lon": 100.5698802,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1374644186,
+    "lat": 13.8436415,
+    "lon": 100.5692633,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1374644193,
+    "lat": 13.8434123,
+    "lon": 100.5697031,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1374644498,
+    "lat": 13.8430529,
+    "lon": 100.5703415,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1687389769,
+    "lat": 13.6957041,
+    "lon": 100.4082274,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1694508921,
+    "lat": 13.7398498,
+    "lon": 100.5330422,
+    "amenity": "toilets",
+    "building": "yes",
+    "check_date": "2022-08-05",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1694509196,
+    "lat": 13.740806,
+    "lon": 100.5315187,
+    "amenity": "toilets",
+    "fee": "no",
+    "level": "0"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1700177366,
+    "lat": 13.7331198,
+    "lon": 100.5374721,
+    "amenity": "toilets",
+    "level": "0"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1703081214,
+    "lat": 13.735533,
+    "lon": 100.5316511,
+    "amenity": "toilets",
+    "level": "0"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1715872099,
+    "lat": 13.7942516,
+    "lon": 100.5885735,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1715872111,
+    "lat": 13.7942801,
+    "lon": 100.5886282,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1716564694,
+    "lat": 13.9303452,
+    "lon": 100.5539325,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1761000729,
+    "lat": 13.5410204,
+    "lon": 100.623581,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1797234020,
+    "lat": 13.7909233,
+    "lon": 100.5495837,
+    "amenity": "toilets",
+    "check_date": "2022-12-19",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1926821147,
+    "lat": 13.7161458,
+    "lon": 100.4450479,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1948202996,
+    "lat": 13.8118093,
+    "lon": 100.5471999,
+    "amenity": "toilets",
+    "fee": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 1948203686,
+    "lat": 13.811201,
+    "lon": 100.5478567,
+    "amenity": "toilets",
+    "fee": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2049513964,
+    "lat": 13.7196906,
+    "lon": 100.5838334,
+    "amenity": "toilets",
+    "fee": "yes",
+    "note": "10 bath entry fee"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2065920180,
+    "lat": 13.7421859,
+    "lon": 100.5439663,
+    "amenity": "toilets",
+    "level": "0"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2065921131,
+    "lat": 13.7421289,
+    "lon": 100.5439676,
+    "amenity": "toilets",
+    "level": "1"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2066165960,
+    "lat": 13.7421284,
+    "lon": 100.5439743,
+    "amenity": "toilets",
+    "level": "2"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2066165963,
+    "lat": 13.7421306,
+    "lon": 100.5439606,
+    "amenity": "toilets",
+    "level": "3"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2066165969,
+    "lat": 13.742186,
+    "lon": 100.5439827,
+    "amenity": "toilets",
+    "level": "4"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2068143971,
+    "lat": 13.8348836,
+    "lon": 100.610691,
+    "amenity": "toilets",
+    "level": "1"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2068143975,
+    "lat": 13.8341596,
+    "lon": 100.6104764,
+    "amenity": "toilets",
+    "level": "0"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2072480284,
+    "lat": 13.8283757,
+    "lon": 100.5668437,
+    "amenity": "toilets",
+    "floor": "1"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2074237750,
+    "lat": 13.7204999,
+    "lon": 100.5694672,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2074694268,
+    "lat": 13.7045679,
+    "lon": 100.5022575,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2074694273,
+    "lat": 13.7032769,
+    "lon": 100.5027986,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2074694281,
+    "lat": 13.7036676,
+    "lon": 100.5023695,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2074713697,
+    "lat": 13.7052503,
+    "lon": 100.5025795,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2074713698,
+    "lat": 13.7042147,
+    "lon": 100.5032091,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2074763545,
+    "lat": 13.8383055,
+    "lon": 100.5509036,
+    "amenity": "toilets",
+    "level": "0;1;2;3"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2074770108,
+    "lat": 13.7045121,
+    "lon": 100.5034398,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2074770117,
+    "lat": 13.7053619,
+    "lon": 100.5035232,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2075726635,
+    "lat": 13.8272433,
+    "lon": 100.6769408,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2075726636,
+    "lat": 13.8267016,
+    "lon": 100.6776006,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2075726780,
+    "lat": 13.800518,
+    "lon": 100.5520367,
+    "amenity": "toilets",
+    "changing_table": "no",
+    "charge": "5 baht",
+    "check_date": "2025-12-02",
+    "fee": "yes",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "payment:coins": "yes",
+    "portable": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "limited"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2075726885,
+    "lat": 13.7994318,
+    "lon": 100.5515351,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2075898431,
+    "lat": 13.7668998,
+    "lon": 100.4435617,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2075932818,
+    "lat": 13.7675984,
+    "lon": 100.4435502,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2075948500,
+    "lat": 13.7666658,
+    "lon": 100.4433034,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2075977794,
+    "lat": 13.7671894,
+    "lon": 100.4417746,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2076090730,
+    "lat": 13.768057,
+    "lon": 100.4419062,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2099239094,
+    "lat": 13.8272273,
+    "lon": 100.6765706,
+    "amenity": "toilets",
+    "level": "1"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2099239110,
+    "lat": 13.8270006,
+    "lon": 100.6773297,
+    "amenity": "toilets",
+    "level": "1"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2104116358,
+    "lat": 13.7801811,
+    "lon": 100.5452747,
+    "amenity": "toilets",
+    "level": "0"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2104285295,
+    "lat": 13.7801733,
+    "lon": 100.5453002,
+    "amenity": "toilets",
+    "level": "1"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2104291500,
+    "lat": 13.7801603,
+    "lon": 100.5453297,
+    "amenity": "toilets",
+    "level": "2"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2107224373,
+    "lat": 13.7980044,
+    "lon": 100.5486981,
+    "amenity": "toilets",
+    "designation": "Toilet 6 ",
+    "fee": "3 baht."
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2109152369,
+    "lat": 13.8390436,
+    "lon": 100.5514833,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2112569995,
+    "lat": 13.7281198,
+    "lon": 100.5740752,
+    "amenity": "toilets",
+    "level": "2"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2112569996,
+    "lat": 13.7281189,
+    "lon": 100.5741079,
+    "amenity": "toilets",
+    "level": "1"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2112569997,
+    "lat": 13.7281186,
+    "lon": 100.574133,
+    "amenity": "toilets",
+    "level": "0"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2112570003,
+    "lat": 13.7281208,
+    "lon": 100.5740481,
+    "amenity": "toilets",
+    "level": "3"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2112740001,
+    "lat": 13.718694,
+    "lon": 100.5857595,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2114179574,
+    "lat": 13.7667339,
+    "lon": 100.4431617,
+    "amenity": "toilets",
+    "designation": "ห้องน้ำสำหรับสัตว์เลี้ยง"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2114182250,
+    "lat": 13.7679192,
+    "lon": 100.4421344,
+    "amenity": "toilets",
+    "designation": "ห้องน้ำสำหรับสัตว์เลี้ยง"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2129707225,
+    "lat": 13.7689296,
+    "lon": 100.495021,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2331437530,
+    "lat": 13.6830261,
+    "lon": 100.5860607,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2385170103,
+    "lat": 13.7987772,
+    "lon": 100.551084,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2385170133,
+    "lat": 13.8027454,
+    "lon": 100.5517594,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2385186306,
+    "lat": 13.7998364,
+    "lon": 100.5498725,
+    "amenity": "toilets",
+    "charge": "5 baht",
+    "check_date": "2025-09-06",
+    "fee": "yes",
+    "payment:cash": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2428800118,
+    "lat": 13.7597217,
+    "lon": 100.4959582,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2430549366,
+    "lat": 13.7617754,
+    "lon": 100.4928683,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2599845114,
+    "lat": 13.7752408,
+    "lon": 100.50714,
+    "amenity": "toilets",
+    "female": "yes",
+    "level": "0.5",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2874223587,
+    "lat": 13.7408545,
+    "lon": 100.5348586,
+    "amenity": "toilets",
+    "name": "ห้องน้ำหลังตึก 55 ปี"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2995489217,
+    "lat": 13.7135279,
+    "lon": 100.5217248,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 2995490802,
+    "lat": 13.7131657,
+    "lon": 100.5236285,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3034366132,
+    "lat": 13.7542846,
+    "lon": 100.5045985,
+    "amenity": "toilets",
+    "description": "3 Bhat donation",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3034402503,
+    "lat": 13.7544295,
+    "lon": 100.5069037,
+    "amenity": "toilets",
+    "check_date": "2026-03-03"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3034402529,
+    "lat": 13.7541578,
+    "lon": 100.5080676,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3036907381,
+    "lat": 13.7531349,
+    "lon": 100.5014853,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3045484827,
+    "lat": 13.7460296,
+    "lon": 100.4915415,
+    "access": "customers",
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3045484829,
+    "lat": 13.7456213,
+    "lon": 100.4925031,
+    "access": "customers",
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3047571907,
+    "lat": 13.7315054,
+    "lon": 100.5672841,
+    "access": "yes",
+    "amenity": "toilets",
+    "check_date": "2025-05-04",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "unisex": "yes",
+    "wheelchair": "limited"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3178943399,
+    "lat": 13.7612179,
+    "lon": 100.5407738,
+    "amenity": "toilets",
+    "check_date:opening_hours": "2026-01-04",
+    "fee": "no",
+    "opening_hours": "05:00-21:00",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3190716131,
+    "lat": 13.7296601,
+    "lon": 100.5393761,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3190716267,
+    "lat": 13.7309715,
+    "lon": 100.542021,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "5 thb",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3190716295,
+    "lat": 13.7329703,
+    "lon": 100.5398234,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3190716298,
+    "lat": 13.7340615,
+    "lon": 100.5388504,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated;urinal"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3302604508,
+    "lat": 13.7184065,
+    "lon": 100.5960658,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3302604516,
+    "lat": 13.7188025,
+    "lon": 100.5973605,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3311152285,
+    "lat": 13.8488638,
+    "lon": 100.4836703,
+    "amenity": "toilets",
+    "source": "GPS, knowledge"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3335924496,
+    "lat": 13.7146762,
+    "lon": 100.5940629,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3354529715,
+    "lat": 13.7144763,
+    "lon": 100.5942659,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3476229837,
+    "lat": 13.7069481,
+    "lon": 100.4008781,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3553966632,
+    "lat": 13.7631336,
+    "lon": 100.4944256,
+    "amenity": "toilets",
+    "check_date": "2025-01-20",
+    "check_date:wheelchair": "2025-01-20",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "wheelchair": "limited"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3553983993,
+    "lat": 13.7612563,
+    "lon": 100.4962828,
+    "amenity": "toilets",
+    "female": "yes",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3768491660,
+    "lat": 13.7270472,
+    "lon": 100.5860904,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3790086623,
+    "lat": 13.97331,
+    "lon": 100.3947435,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3866512328,
+    "lat": 13.7475856,
+    "lon": 100.3500872,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3866512329,
+    "lat": 13.7461975,
+    "lon": 100.3486147,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3866512330,
+    "lat": 13.7444712,
+    "lon": 100.3485944,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3866512331,
+    "lat": 13.7441497,
+    "lon": 100.3508199,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3866512332,
+    "lat": 13.746009,
+    "lon": 100.3507264,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3866512333,
+    "lat": 13.7456733,
+    "lon": 100.3494064,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3866512334,
+    "lat": 13.7480294,
+    "lon": 100.3532667,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3866538488,
+    "lat": 13.7447119,
+    "lon": 100.3515345,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3945975609,
+    "lat": 13.8137555,
+    "lon": 100.5487495,
+    "amenity": "toilets",
+    "level": "0"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3945975615,
+    "lat": 13.8126355,
+    "lon": 100.5486248,
+    "amenity": "toilets",
+    "charge": "10 THB",
+    "check_date": "2025-09-08",
+    "fee": "yes",
+    "level": "0"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 3995533635,
+    "lat": 13.7667857,
+    "lon": 100.5031885,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4089310975,
+    "lat": 13.7390909,
+    "lon": 100.5170921,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "yes",
+    "fee:amount": "3 Baht - shower 10 Baht",
+    "level": "0",
+    "male": "yes",
+    "shower": "yes",
+    "source": "survey",
+    "source:date": "2016-07-29",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4134821291,
+    "lat": 13.688548,
+    "lon": 100.5078359,
+    "amenity": "toilets",
+    "changing_table": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4307083995,
+    "lat": 13.7444807,
+    "lon": 100.5440537,
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4333467973,
+    "lat": 13.7575323,
+    "lon": 100.4918437,
+    "amenity": "toilets",
+    "opening_hours": "We-Su 09:00-16:00"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4353971590,
+    "lat": 13.7402631,
+    "lon": 100.490462,
+    "addr:floor": "G",
+    "amenity": "toilets",
+    "check_date": "2024-11-10",
+    "level": "0",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4356902989,
+    "lat": 13.75931,
+    "lon": 100.4960094,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4402680363,
+    "lat": 13.7182983,
+    "lon": 100.545958,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4405372491,
+    "lat": 13.7105246,
+    "lon": 100.6009237,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4459617687,
+    "lat": 13.7417817,
+    "lon": 100.5043539,
+    "access": "permissive",
+    "amenity": "toilets",
+    "fee": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4464544892,
+    "lat": 13.7587783,
+    "lon": 100.5121107,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4512014702,
+    "lat": 13.7427014,
+    "lon": 100.5525452,
+    "amenity": "toilets",
+    "fee": "no",
+    "level": "1"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4552342393,
+    "lat": 13.727416,
+    "lon": 100.5324084,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4556013489,
+    "lat": 13.6927058,
+    "lon": 100.7464229,
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "check_date": "2025-12-01",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4560493897,
+    "lat": 13.6628902,
+    "lon": 100.5369209,
+    "access": "private",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "no",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4560493898,
+    "lat": 13.6629394,
+    "lon": 100.5360951,
+    "access": "private",
+    "amenity": "toilets",
+    "female": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4560493900,
+    "lat": 13.6633829,
+    "lon": 100.5355252,
+    "amenity": "toilets",
+    "female": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4577052820,
+    "lat": 13.9192708,
+    "lon": 100.6859341,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4597556477,
+    "lat": 13.9366746,
+    "lon": 100.7004296,
+    "amenity": "toilets",
+    "female": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4597556478,
+    "lat": 13.9368113,
+    "lon": 100.7004323,
+    "amenity": "toilets",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4605624064,
+    "lat": 13.7530623,
+    "lon": 100.4941716,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4609360801,
+    "lat": 13.9143131,
+    "lon": 100.5479979,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4609360805,
+    "lat": 13.9151001,
+    "lon": 100.5482147,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4609386300,
+    "lat": 13.914002,
+    "lon": 100.5479031,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4609386302,
+    "lat": 13.913797,
+    "lon": 100.5498652,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4609387799,
+    "lat": 13.9130385,
+    "lon": 100.5484356,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4609387898,
+    "lat": 13.9156702,
+    "lon": 100.5507008,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4609387899,
+    "lat": 13.912686,
+    "lon": 100.549426,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4609387995,
+    "lat": 13.9143468,
+    "lon": 100.5474626,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4609388002,
+    "lat": 13.9151043,
+    "lon": 100.5492892,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4609395793,
+    "lat": 13.9137676,
+    "lon": 100.5485675,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4609521396,
+    "lat": 13.8155224,
+    "lon": 100.5597511,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4618422797,
+    "lat": 13.9033906,
+    "lon": 100.5275119,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4618465998,
+    "lat": 13.903185,
+    "lon": 100.5274438,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4620841990,
+    "lat": 13.8287853,
+    "lon": 100.5681702,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4620843394,
+    "lat": 13.8285806,
+    "lon": 100.5681388,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4620844192,
+    "lat": 13.828848,
+    "lon": 100.5684171,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4634245449,
+    "lat": 13.7986252,
+    "lon": 100.5488632,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4634245458,
+    "lat": 13.8000344,
+    "lon": 100.5492548,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4639531190,
+    "lat": 13.9164624,
+    "lon": 100.5485349,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4640039692,
+    "lat": 13.7381663,
+    "lon": 100.5608009,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4640053592,
+    "lat": 13.7385072,
+    "lon": 100.5608093,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4640053594,
+    "lat": 13.7380191,
+    "lon": 100.5604539,
+    "amenity": "toilets",
+    "fee": "no",
+    "level": "0"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4640099692,
+    "lat": 13.7374194,
+    "lon": 100.5605929,
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4641867395,
+    "lat": 13.9621324,
+    "lon": 100.6220133,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4641867407,
+    "lat": 13.9605054,
+    "lon": 100.6219429,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4641880712,
+    "lat": 13.9617877,
+    "lon": 100.6240295,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4641897609,
+    "lat": 13.9622054,
+    "lon": 100.6238111,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4641910706,
+    "lat": 13.9611524,
+    "lon": 100.6229612,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4641910714,
+    "lat": 13.9604323,
+    "lon": 100.6221754,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4689077295,
+    "lat": 13.7143661,
+    "lon": 100.5931214,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4693263095,
+    "lat": 13.7295728,
+    "lon": 100.566895,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4693263097,
+    "lat": 13.7308799,
+    "lon": 100.5682131,
+    "access": "yes",
+    "amenity": "toilets",
+    "female": "yes",
+    "male": "yes",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4708059725,
+    "lat": 13.8588066,
+    "lon": 100.6272245,
+    "amenity": "toilets",
+    "charge": "3฿",
+    "fee": "yes",
+    "source": "survey",
+    "source:date": "2019-12-30",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4716136590,
+    "lat": 13.8043156,
+    "lon": 100.5532195,
+    "amenity": "toilets",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4798636132,
+    "lat": 13.9210174,
+    "lon": 100.6978755,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4805979621,
+    "lat": 13.76071,
+    "lon": 100.4994998,
+    "access": "no",
+    "amenity": "toilets",
+    "construction": "yes",
+    "level": "-1",
+    "note": "The toilet is not accessable due to construction.",
+    "temporary": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4841221121,
+    "lat": 13.7046126,
+    "lon": 100.7487471,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4863584523,
+    "lat": 13.7579454,
+    "lon": 100.4909177,
+    "amenity": "toilets",
+    "level": "0"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 4863620922,
+    "lat": 13.7587049,
+    "lon": 100.4913341,
+    "amenity": "toilets",
+    "level": "0"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5010478721,
+    "lat": 13.7596857,
+    "lon": 100.4863435,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5010478722,
+    "lat": 13.7606201,
+    "lon": 100.4782624,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5031442021,
+    "lat": 13.7433866,
+    "lon": 100.489183,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5031457224,
+    "lat": 13.7565412,
+    "lon": 100.4890495,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5185599145,
+    "lat": 13.9591087,
+    "lon": 100.6199126,
+    "access": "yes",
+    "amenity": "toilets",
+    "level": "0",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5215520722,
+    "lat": 13.9207304,
+    "lon": 100.60463,
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5234743344,
+    "lat": 13.5133914,
+    "lon": 100.6538411,
+    "amenity": "toilets",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5237610521,
+    "lat": 13.741556,
+    "lon": 100.506312,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5238736914,
+    "lat": 13.8673657,
+    "lon": 100.7055384,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5238737827,
+    "lat": 13.8662799,
+    "lon": 100.7064027,
+    "access": "permissive",
+    "amenity": "toilets",
+    "female": "yes",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5250908994,
+    "lat": 13.865769,
+    "lon": 100.7043266,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5250908997,
+    "lat": 13.8662599,
+    "lon": 100.7013406,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5253426926,
+    "lat": 13.7390807,
+    "lon": 100.5159474,
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "no",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5253426927,
+    "lat": 13.7391923,
+    "lon": 100.5171087,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "yes",
+    "female": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5253614927,
+    "lat": 13.738363,
+    "lon": 100.5136776,
+    "access": "yes",
+    "amenity": "toilets",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5253691685,
+    "lat": 13.8426036,
+    "lon": 100.4913322,
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "charge": "5, 10 Baht",
+    "fee": "yes",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5285304892,
+    "lat": 13.7371767,
+    "lon": 100.6181483,
+    "access": "yes",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5285304893,
+    "lat": 13.7369926,
+    "lon": 100.6182992,
+    "access": "yes",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5300478058,
+    "lat": 13.7892715,
+    "lon": 100.4717931,
+    "access": "permissive",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5322792279,
+    "lat": 13.7510053,
+    "lon": 100.4933312,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5322792280,
+    "lat": 13.7472236,
+    "lon": 100.4933151,
+    "access": "customers",
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5322792281,
+    "lat": 13.7471011,
+    "lon": 100.4929262,
+    "access": "customers",
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5325126022,
+    "lat": 13.7451684,
+    "lon": 100.5336376,
+    "amenity": "toilets",
+    "opening_hours": "Mo-Su 09:00-22:00"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5400437666,
+    "lat": 13.8006019,
+    "lon": 100.5537913,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5400437667,
+    "lat": 13.8008343,
+    "lon": 100.5534014,
+    "amenity": "toilets",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5400437668,
+    "lat": 13.8004488,
+    "lon": 100.5531679,
+    "amenity": "toilets",
+    "female": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5400437669,
+    "lat": 13.8003876,
+    "lon": 100.5536489,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5400437670,
+    "lat": 13.8000328,
+    "lon": 100.5529688,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5400437671,
+    "lat": 13.7996015,
+    "lon": 100.5536051,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5426081982,
+    "lat": 13.7385652,
+    "lon": 100.5101766,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5426087113,
+    "lat": 13.6866498,
+    "lon": 100.5652537,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5438280770,
+    "lat": 13.7546034,
+    "lon": 100.4907844,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5444085445,
+    "lat": 13.6918271,
+    "lon": 100.6602963,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5469513036,
+    "lat": 13.8002889,
+    "lon": 100.5472539,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5477010351,
+    "lat": 13.9212192,
+    "lon": 100.6929383,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5549249486,
+    "lat": 13.9191455,
+    "lon": 100.6867291,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5567931621,
+    "lat": 13.7390803,
+    "lon": 100.5166447,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5584354166,
+    "lat": 13.9232865,
+    "lon": 100.695196,
+    "access": "customers",
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5595800574,
+    "lat": 13.9273198,
+    "lon": 100.6231502,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5595800575,
+    "lat": 13.9284062,
+    "lon": 100.6221146,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5744775147,
+    "lat": 13.9327892,
+    "lon": 100.6553649,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5822833274,
+    "lat": 13.9179298,
+    "lon": 100.6870894,
+    "access": "permissive",
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5823520438,
+    "lat": 13.8706256,
+    "lon": 100.551243,
+    "access": "yes",
+    "amenity": "toilets",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5823520439,
+    "lat": 13.870623,
+    "lon": 100.5513181,
+    "access": "yes",
+    "amenity": "toilets",
+    "female": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5823520440,
+    "lat": 13.8694642,
+    "lon": 100.5512162,
+    "access": "yes",
+    "amenity": "toilets",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5823520441,
+    "lat": 13.869446,
+    "lon": 100.5508192,
+    "access": "yes",
+    "amenity": "toilets",
+    "female": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5828209449,
+    "lat": 13.7477806,
+    "lon": 100.5248931,
+    "amenity": "toilets",
+    "fee": "no",
+    "level": "0"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832391760,
+    "lat": 13.7673994,
+    "lon": 100.5524142,
+    "amenity": "toilets",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832391762,
+    "lat": 13.7657843,
+    "lon": 100.5512348,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832391764,
+    "lat": 13.7465499,
+    "lon": 100.5394204,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832391765,
+    "lat": 13.7456027,
+    "lon": 100.5387628,
+    "amenity": "toilets",
+    "check_date": "2023-01-30",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832391766,
+    "lat": 13.7475798,
+    "lon": 100.5394204,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832391767,
+    "lat": 13.8254618,
+    "lon": 100.6791741,
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832391768,
+    "lat": 13.826132,
+    "lon": 100.679756,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832391769,
+    "lat": 13.8257816,
+    "lon": 100.6780148,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832421154,
+    "lat": 13.9119294,
+    "lon": 100.5481937,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832421156,
+    "lat": 13.911369,
+    "lon": 100.5480693,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832421158,
+    "lat": 13.9140398,
+    "lon": 100.5489856,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832421159,
+    "lat": 13.9139183,
+    "lon": 100.5495243,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832421160,
+    "lat": 13.9125155,
+    "lon": 100.5484167,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832421161,
+    "lat": 13.9123682,
+    "lon": 100.548906,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832421162,
+    "lat": 13.914601,
+    "lon": 100.5467735,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832421163,
+    "lat": 13.9116481,
+    "lon": 100.5456431,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832421164,
+    "lat": 13.9129515,
+    "lon": 100.5470238,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832421165,
+    "lat": 13.7559086,
+    "lon": 100.5036032,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832449905,
+    "lat": 13.8772757,
+    "lon": 100.4113834,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5832449906,
+    "lat": 13.720346,
+    "lon": 100.5601415,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5863248716,
+    "lat": 13.9201475,
+    "lon": 100.6866368,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5863248717,
+    "lat": 13.9201449,
+    "lon": 100.6867656,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5898649685,
+    "lat": 13.7441499,
+    "lon": 100.4884848,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5927981873,
+    "lat": 13.7471253,
+    "lon": 100.5346635,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5927981874,
+    "lat": 13.746919,
+    "lon": 100.5353766,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5927981875,
+    "lat": 13.7474643,
+    "lon": 100.5351262,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5927981876,
+    "lat": 13.7473022,
+    "lon": 100.5389877,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5927981877,
+    "lat": 13.7461526,
+    "lon": 100.5393291,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5927981878,
+    "lat": 13.7469927,
+    "lon": 100.5417644,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5928120569,
+    "lat": 13.961918,
+    "lon": 100.623654,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5928120570,
+    "lat": 13.9621536,
+    "lon": 100.6241509,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5987747329,
+    "lat": 13.9197846,
+    "lon": 100.6857064,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6012511592,
+    "lat": 13.8886152,
+    "lon": 100.6546893,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6012563589,
+    "lat": 13.8888313,
+    "lon": 100.6557166,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6012563602,
+    "lat": 13.8887089,
+    "lon": 100.6549816,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6015237791,
+    "lat": 13.9337217,
+    "lon": 100.6817964,
+    "amenity": "toilets",
+    "level": "0"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6021247822,
+    "lat": 13.922407,
+    "lon": 100.6667387,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6021247834,
+    "lat": 13.9216624,
+    "lon": 100.6667722,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6082936086,
+    "lat": 13.7023976,
+    "lon": 100.8233716,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6094824487,
+    "lat": 13.7469577,
+    "lon": 100.4923485,
+    "access": "customers",
+    "amenity": "toilets",
+    "fee": "no",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6094824986,
+    "lat": 13.7470271,
+    "lon": 100.4925792,
+    "access": "customers",
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6132585395,
+    "lat": 13.9222422,
+    "lon": 100.6903352,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6165091103,
+    "lat": 13.7422405,
+    "lon": 100.4904504,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6176022245,
+    "lat": 13.8232884,
+    "lon": 100.4804171,
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6187198054,
+    "lat": 13.9209863,
+    "lon": 100.6979425,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6187199195,
+    "lat": 13.9209398,
+    "lon": 100.6978816,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6211788305,
+    "lat": 13.9875979,
+    "lon": 100.6749536,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6269455565,
+    "lat": 13.5532387,
+    "lon": 100.6316778,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6269455566,
+    "lat": 13.5532966,
+    "lon": 100.6276241,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6269455567,
+    "lat": 13.5496878,
+    "lon": 100.6259011,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6269455568,
+    "lat": 13.5485723,
+    "lon": 100.6264001,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6269506064,
+    "lat": 13.5508567,
+    "lon": 100.6287679,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6269620216,
+    "lat": 13.5464323,
+    "lon": 100.6292221,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6269630867,
+    "lat": 13.5466759,
+    "lon": 100.6326438,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6271020485,
+    "lat": 13.6961454,
+    "lon": 100.563586,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6274385788,
+    "lat": 13.7984057,
+    "lon": 100.5486059,
+    "access": "yes",
+    "amenity": "toilets",
+    "charge": "10 thb",
+    "fee": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6274391190,
+    "lat": 13.76429,
+    "lon": 100.5015303,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6274454091,
+    "lat": 13.7592546,
+    "lon": 100.490316,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6317647297,
+    "lat": 13.8052598,
+    "lon": 100.6970023,
+    "amenity": "toilets",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6317647618,
+    "lat": 13.8051729,
+    "lon": 100.6970525,
+    "amenity": "toilets",
+    "female": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6326707556,
+    "lat": 13.7379425,
+    "lon": 100.5132336,
+    "access": "yes",
+    "amenity": "toilets",
+    "check_date": "2025-12-06",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6342882366,
+    "lat": 13.7061922,
+    "lon": 100.5044716,
+    "amenity": "toilets",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6353624741,
+    "lat": 13.7755995,
+    "lon": 100.5083679,
+    "amenity": "toilets",
+    "female": "yes",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6353668671,
+    "lat": 13.7756334,
+    "lon": 100.5082163,
+    "access": "permissive",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6359663186,
+    "lat": 13.8111508,
+    "lon": 100.5488018,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6440013564,
+    "lat": 13.7674636,
+    "lon": 100.5102562,
+    "amenity": "toilets",
+    "toilets:wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6533430563,
+    "lat": 13.7630956,
+    "lon": 100.5364292,
+    "amenity": "toilets",
+    "description": "Level B floor:toilets",
+    "level": "-1"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6604775097,
+    "lat": 13.7205458,
+    "lon": 100.7566509,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6609487885,
+    "lat": 13.9181419,
+    "lon": 100.6037072,
+    "access": "yes",
+    "amenity": "toilets",
+    "check_date": "2024-02-03",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6609487887,
+    "lat": 13.9174179,
+    "lon": 100.6012919,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6609503986,
+    "lat": 13.918513,
+    "lon": 100.6034224,
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "check_date": "2025-12-17",
+    "check_date:opening_hours": "2025-12-17",
+    "fee": "no",
+    "level": "3",
+    "opening_hours": "Mo-Su,PH 00:00-00:00",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6609504185,
+    "lat": 13.9184138,
+    "lon": 100.6020102,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6609660487,
+    "lat": 13.9164909,
+    "lon": 100.6009938,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6609760888,
+    "lat": 13.91584,
+    "lon": 100.6026084,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6609761086,
+    "lat": 13.9162961,
+    "lon": 100.6021483,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6609778386,
+    "lat": 13.9192369,
+    "lon": 100.602387,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6609779785,
+    "lat": 13.9189046,
+    "lon": 100.6022603,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6636474185,
+    "lat": 13.9159524,
+    "lon": 100.600823,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6636481093,
+    "lat": 13.9140247,
+    "lon": 100.6001876,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6636481095,
+    "lat": 13.9137701,
+    "lon": 100.6007858,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6636481096,
+    "lat": 13.9142446,
+    "lon": 100.600672,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6636481100,
+    "lat": 13.9134164,
+    "lon": 100.6013942,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6636481102,
+    "lat": 13.9135835,
+    "lon": 100.6019419,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6636481386,
+    "lat": 13.9139211,
+    "lon": 100.6012651,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6640448318,
+    "lat": 13.7176577,
+    "lon": 100.5133131,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6659642886,
+    "lat": 13.7794421,
+    "lon": 100.5297594,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6670700387,
+    "lat": 13.6916412,
+    "lon": 100.7464708,
+    "amenity": "toilets",
+    "check_date": "2023-03-18",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6670700390,
+    "lat": 13.6906288,
+    "lon": 100.7531994,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6728542477,
+    "lat": 13.8307768,
+    "lon": 100.4662977,
+    "access": "private",
+    "amenity": "toilets",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6734227085,
+    "lat": 13.7555075,
+    "lon": 100.4897659,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6738503373,
+    "lat": 13.8307687,
+    "lon": 100.4663064,
+    "access": "private",
+    "amenity": "toilets",
+    "female": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6754554332,
+    "lat": 13.723201,
+    "lon": 100.7536246,
+    "access": "customers",
+    "amenity": "toilets",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6765221917,
+    "lat": 13.8626099,
+    "lon": 100.5185109,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6765221924,
+    "lat": 13.8608194,
+    "lon": 100.5184344,
+    "amenity": "toilets",
+    "description": "@1st floor"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6796094011,
+    "lat": 13.8163826,
+    "lon": 100.5545024,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6984199230,
+    "lat": 13.8481472,
+    "lon": 100.4830957,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6984199803,
+    "lat": 13.8280084,
+    "lon": 100.4840399,
+    "amenity": "toilets",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 6984199804,
+    "lat": 13.8280197,
+    "lon": 100.4840658,
+    "amenity": "toilets",
+    "female": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7068582985,
+    "lat": 13.7372319,
+    "lon": 100.5234717,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7079165647,
+    "lat": 13.8757572,
+    "lon": 100.4106509,
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7093078086,
+    "lat": 13.7716871,
+    "lon": 100.6091863,
+    "access": "customers",
+    "amenity": "toilets",
+    "source": "survey",
+    "source:date": "2019-12-28",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7125641492,
+    "lat": 13.6815341,
+    "lon": 100.5752094,
+    "access": "yes",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7150481880,
+    "lat": 13.7544878,
+    "lon": 100.4909462,
+    "access": "yes",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7171670885,
+    "lat": 13.7467086,
+    "lon": 100.5067351,
+    "amenity": "toilets",
+    "opening_hours": "Mo-Su 09:00-22:00"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7187507886,
+    "lat": 13.5708449,
+    "lon": 100.5976667,
+    "amenity": "toilets",
+    "operator": "Zoo"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7265503089,
+    "lat": 13.8361115,
+    "lon": 100.4666564,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7265623293,
+    "lat": 13.830277,
+    "lon": 100.5021242,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7265623300,
+    "lat": 13.8313079,
+    "lon": 100.5015695,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7283552406,
+    "lat": 13.8475159,
+    "lon": 100.4905718,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7283552447,
+    "lat": 13.8624149,
+    "lon": 100.5158502,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7617716874,
+    "lat": 13.8356581,
+    "lon": 100.4994872,
+    "amenity": "toilets",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7617716877,
+    "lat": 13.8474253,
+    "lon": 100.513397,
+    "amenity": "toilets",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7617716882,
+    "lat": 13.8478271,
+    "lon": 100.5142597,
+    "amenity": "toilets",
+    "description": "TH: @ชั้นขายตั๋วรถไฟฟ้า (ชั้น 2): อยู่ใต้บันใดเลื่อน (อยู่ในพื้นที่ที่ต้องเสียเงินค่าเข้าสถานี)\nEN: @Subway ticket booth floor (2nd floor): Under escalator (must paid to pass into turnstile area)",
+    "level": "1",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7617802899,
+    "lat": 13.8416931,
+    "lon": 100.4969825,
+    "amenity": "toilets",
+    "description": "TH:ห้องน้ำ อยู่ชั้น 2\nEN:Toilet at 2nd floor",
+    "level": "1",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7697336981,
+    "lat": 13.7446873,
+    "lon": 100.4960127,
+    "access": "no",
+    "amenity": "toilets",
+    "description": "EN: Staff Toilets Only\nTH: ห้องน้ำเจ้าหน้าที่",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7697378490,
+    "lat": 13.8441942,
+    "lon": 100.4826021,
+    "amenity": "toilets",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7959709603,
+    "lat": 13.8801833,
+    "lon": 100.410662,
+    "amenity": "toilets",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 8067091395,
+    "lat": 13.9123939,
+    "lon": 100.5429348,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 8110309617,
+    "lat": 13.7964251,
+    "lon": 100.5540481,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9029177245,
+    "lat": 13.8139468,
+    "lon": 100.4145194,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9115649716,
+    "lat": 13.8697659,
+    "lon": 100.7337608,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9116353172,
+    "lat": 13.8617898,
+    "lon": 100.7090031,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9116353194,
+    "lat": 13.8209214,
+    "lon": 100.5155081,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9270713635,
+    "lat": 13.8432963,
+    "lon": 100.4948904,
+    "amenity": "toilets",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9375438107,
+    "lat": 13.7622302,
+    "lon": 100.4160217,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9549083219,
+    "lat": 13.7718965,
+    "lon": 100.5004496,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9555935874,
+    "lat": 13.8422839,
+    "lon": 100.5187169,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9572351241,
+    "lat": 13.762293,
+    "lon": 100.5414029,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9591147162,
+    "lat": 13.6234772,
+    "lon": 100.3570486,
+    "amenity": "toilets",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9591147163,
+    "lat": 13.6235191,
+    "lon": 100.3571099,
+    "amenity": "toilets",
+    "female": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9632468496,
+    "lat": 13.8805488,
+    "lon": 100.408431,
+    "amenity": "toilets",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9667734388,
+    "lat": 13.8678631,
+    "lon": 100.7046893,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9667820330,
+    "lat": 13.8648257,
+    "lon": 100.7031327,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9667841771,
+    "lat": 13.8660075,
+    "lon": 100.7040984,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9751175389,
+    "lat": 13.6704928,
+    "lon": 100.6173094,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9805936010,
+    "lat": 13.7641831,
+    "lon": 100.5375145,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "yes",
+    "wheelchair": "designated"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9810329701,
+    "lat": 13.8662819,
+    "lon": 100.7016028,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9810452675,
+    "lat": 13.8676046,
+    "lon": 100.7038139,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9860272234,
+    "lat": 13.7676637,
+    "lon": 100.5309745,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9909852354,
+    "lat": 13.7420583,
+    "lon": 100.5250483,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9914385088,
+    "lat": 13.7348159,
+    "lon": 100.5247549,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 9998681439,
+    "lat": 13.8467076,
+    "lon": 100.5158151,
+    "access": "unknown",
+    "amenity": "toilets",
+    "portable": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10110426241,
+    "lat": 13.6442427,
+    "lon": 100.6775746,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10110426243,
+    "lat": 13.6486032,
+    "lon": 100.6797327,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10170951719,
+    "lat": 13.8904525,
+    "lon": 100.519484,
+    "access": "private",
+    "amenity": "toilets",
+    "female": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10170951720,
+    "lat": 13.8904437,
+    "lon": 100.5195155,
+    "access": "private",
+    "amenity": "toilets",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10170951759,
+    "lat": 13.8931966,
+    "lon": 100.5242494,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10170951760,
+    "lat": 13.8925181,
+    "lon": 100.5242908,
+    "access": "customers",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10173758772,
+    "lat": 13.8921178,
+    "lon": 100.5201218,
+    "access": "private",
+    "amenity": "toilets",
+    "female": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10173758773,
+    "lat": 13.8920933,
+    "lon": 100.5201116,
+    "access": "private",
+    "amenity": "toilets",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10235537122,
+    "lat": 13.7317686,
+    "lon": 100.5537978,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10235537123,
+    "lat": 13.7317765,
+    "lon": 100.5543377,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10235537124,
+    "lat": 13.7330797,
+    "lon": 100.5549049,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10246936005,
+    "lat": 13.7398506,
+    "lon": 100.5231401,
+    "amenity": "toilets",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10269566723,
+    "lat": 13.9086808,
+    "lon": 100.7221477,
+    "access": "customers",
+    "amenity": "toilets",
+    "source": "survey",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10296452735,
+    "lat": 13.8427811,
+    "lon": 100.4943262,
+    "amenity": "toilets",
+    "fee": "yes",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10310145632,
+    "lat": 13.746089,
+    "lon": 100.4939232,
+    "access": "customers",
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10314277197,
+    "lat": 13.9896862,
+    "lon": 100.6024559,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "level": "0",
+    "source": "survey",
+    "source:date": "2022-01-07",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10316327518,
+    "lat": 13.8433011,
+    "lon": 100.4823086,
+    "amenity": "toilets",
+    "female": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10316327519,
+    "lat": 13.8433115,
+    "lon": 100.4822389,
+    "amenity": "toilets",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10562171724,
+    "lat": 13.689877,
+    "lon": 100.6703565,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10605979188,
+    "lat": 13.7613551,
+    "lon": 100.4984998,
+    "access": "customers",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10697520278,
+    "lat": 13.724596,
+    "lon": 100.5541878,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10706966442,
+    "lat": 13.7364399,
+    "lon": 100.5315339,
+    "amenity": "toilets",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10722958572,
+    "lat": 13.9203611,
+    "lon": 100.6805177,
+    "access": "yes",
+    "amenity": "toilets",
+    "source": "survey",
+    "source:date": "2023-03-08",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10774802694,
+    "lat": 13.8807764,
+    "lon": 100.5869975,
+    "access": "unknown",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10774802695,
+    "lat": 13.8804718,
+    "lon": 100.5875293,
+    "access": "unknown",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10794220595,
+    "lat": 13.8052033,
+    "lon": 100.5510133,
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "limited"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10842073405,
+    "lat": 13.7267128,
+    "lon": 100.5103268,
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10897793107,
+    "lat": 13.6250711,
+    "lon": 100.3945563,
+    "amenity": "toilets",
+    "opening_hours": "24/7"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10905638407,
+    "lat": 13.5861879,
+    "lon": 100.8400725,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10925986606,
+    "lat": 13.7065061,
+    "lon": 100.3453253,
+    "amenity": "toilets",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10926641797,
+    "lat": 13.7031326,
+    "lon": 100.4472497,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10926642087,
+    "lat": 13.7064345,
+    "lon": 100.3453565,
+    "amenity": "toilets",
+    "female": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10983472342,
+    "lat": 13.7393664,
+    "lon": 100.5227582,
+    "amenity": "toilets",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11042553934,
+    "lat": 13.7313769,
+    "lon": 100.5203641,
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "limited"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11091079319,
+    "lat": 13.7498606,
+    "lon": 100.5014386,
+    "access": "yes",
+    "amenity": "toilets",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11107333386,
+    "lat": 13.7304134,
+    "lon": 100.5148686,
+    "access": "customers",
+    "amenity": "toilets",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "payment:cash": "yes",
+    "payment:coins": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11129174508,
+    "lat": 13.7314798,
+    "lon": 100.5293802,
+    "access": "yes",
+    "amenity": "toilets",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "limited"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11166512955,
+    "lat": 13.9141383,
+    "lon": 100.5511292,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11177973637,
+    "lat": 13.9207064,
+    "lon": 100.6032203,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11189883085,
+    "lat": 13.765324,
+    "lon": 100.5393942,
+    "amenity": "toilets",
+    "check_date": "2023-09-14",
+    "fee": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11189886756,
+    "lat": 13.7637549,
+    "lon": 100.5381856,
+    "amenity": "toilets",
+    "check_date": "2023-09-14"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11201795584,
+    "lat": 13.7328085,
+    "lon": 100.4730623,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11201795607,
+    "lat": 13.7337984,
+    "lon": 100.4737357,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11226944669,
+    "lat": 13.7248705,
+    "lon": 100.5228569,
+    "access": "yes",
+    "amenity": "toilets",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11230676391,
+    "lat": 13.8804967,
+    "lon": 100.4084338,
+    "amenity": "toilets",
+    "female": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11237418653,
+    "lat": 13.7662366,
+    "lon": 100.5380601,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11237450254,
+    "lat": 13.7675201,
+    "lon": 100.5345305,
+    "amenity": "toilets",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11237450255,
+    "lat": 13.7675956,
+    "lon": 100.5343079,
+    "amenity": "toilets",
+    "female": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11238561275,
+    "lat": 13.8427275,
+    "lon": 100.571004,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11240212738,
+    "lat": 13.845543,
+    "lon": 100.5691859,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11274290781,
+    "lat": 13.8481563,
+    "lon": 100.6534066,
+    "amenity": "toilets",
+    "portable": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11275014729,
+    "lat": 13.8181901,
+    "lon": 100.6974804,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11275014730,
+    "lat": 13.8182063,
+    "lon": 100.6978181,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11275014732,
+    "lat": 13.8182339,
+    "lon": 100.6981872,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11278824610,
+    "lat": 13.6980586,
+    "lon": 100.5409827,
+    "access": "yes",
+    "amenity": "toilets",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11345929961,
+    "lat": 13.75265,
+    "lon": 100.4901837,
+    "access": "permissive",
+    "amenity": "toilets",
+    "name": "ห้องน้ำสวนแก้ว",
+    "name:en": "Suan Kaew Washrooms",
+    "name:th": "ห้องน้ำสวนแก้ว",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11355625942,
+    "lat": 13.5956528,
+    "lon": 100.5877224,
+    "access": "yes",
+    "amenity": "toilets",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11356322804,
+    "lat": 13.6072094,
+    "lon": 100.5959448,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11414462130,
+    "lat": 13.7255041,
+    "lon": 100.5398783,
+    "access": "customers",
+    "amenity": "toilets",
+    "female": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11414462131,
+    "lat": 13.7255477,
+    "lon": 100.5400079,
+    "access": "customers",
+    "amenity": "toilets",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11428044162,
+    "lat": 13.7512411,
+    "lon": 100.4908462,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11432207416,
+    "lat": 13.7263418,
+    "lon": 100.5141765,
+    "amenity": "toilets",
+    "toilets:disposal": "flush",
+    "wheelchair": "limited"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11461954823,
+    "lat": 13.918168,
+    "lon": 100.6600626,
+    "access": "customers",
+    "amenity": "toilets",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11462175841,
+    "lat": 13.6478494,
+    "lon": 100.7542386,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11462175846,
+    "lat": 13.6479951,
+    "lon": 100.7542527,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11462199370,
+    "lat": 13.6674347,
+    "lon": 100.7258308,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11462199371,
+    "lat": 13.6675716,
+    "lon": 100.7258839,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11462208259,
+    "lat": 13.7116064,
+    "lon": 100.7423668,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11462208260,
+    "lat": 13.7114795,
+    "lon": 100.7422959,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11462301662,
+    "lat": 13.7095867,
+    "lon": 100.778705,
+    "access": "yes",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11476145708,
+    "lat": 13.7546098,
+    "lon": 100.4958578,
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "charge": "5 THB",
+    "description": "inside a very small kiosk",
+    "fee": "yes",
+    "payment:cash": "yes",
+    "source": "survey",
+    "source:date": "2024-01-01",
+    "toilets:disposal": "bucket",
+    "unisex": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11482596648,
+    "lat": 13.7409,
+    "lon": 100.5252105,
+    "access": "yes",
+    "amenity": "toilets",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11482609205,
+    "lat": 13.7412214,
+    "lon": 100.5252856,
+    "access": "yes",
+    "amenity": "toilets",
+    "female": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11491927073,
+    "lat": 13.710575,
+    "lon": 100.7777039,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11613350141,
+    "lat": 13.7778465,
+    "lon": 100.5738893,
+    "access": "permissive",
+    "amenity": "toilets",
+    "level": "-2"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11613364653,
+    "lat": 13.7662438,
+    "lon": 100.568353,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11658422487,
+    "lat": 13.682746,
+    "lon": 100.7469898,
+    "addr:floor": "3",
+    "amenity": "toilets",
+    "check_date": "2025-08-04",
+    "check_date:wheelchair": "2025-08-04",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11740067851,
+    "lat": 13.7580826,
+    "lon": 100.3297518,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11740099933,
+    "lat": 13.8144988,
+    "lon": 100.3911487,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11757134708,
+    "lat": 13.8299696,
+    "lon": 100.4874123,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11804007169,
+    "lat": 13.7903795,
+    "lon": 100.3217527,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11868067319,
+    "lat": 13.7373335,
+    "lon": 100.5312884,
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11873926114,
+    "lat": 13.7748894,
+    "lon": 100.465818,
+    "access": "permissive",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2024-05-02",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11900072398,
+    "lat": 13.7634192,
+    "lon": 100.4942491,
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11903070885,
+    "lat": 13.7523522,
+    "lon": 100.4890866,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "yes",
+    "level": "-1",
+    "male": "yes",
+    "toilets:handwashing": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11987157701,
+    "lat": 13.7885514,
+    "lon": 100.5469427,
+    "access": "private",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2024-06-17",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12178008891,
+    "lat": 13.8029488,
+    "lon": 100.5405319,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "yes",
+    "source": "survey",
+    "source:date": "2024-09-15",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12178008892,
+    "lat": 13.803053,
+    "lon": 100.5405694,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "male": "yes",
+    "source": "survey",
+    "source:date": "2024-09-15",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12178068066,
+    "lat": 13.8041809,
+    "lon": 100.5410227,
+    "access": "yes",
+    "amenity": "toilets",
+    "source": "survey",
+    "source:date": "2024-09-15",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12178333707,
+    "lat": 13.805056,
+    "lon": 100.5413822,
+    "access": "yes",
+    "amenity": "toilets",
+    "source": "survey",
+    "source:date": "2024-09-15",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12178333712,
+    "lat": 13.8061683,
+    "lon": 100.5418247,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "yes",
+    "level": "0",
+    "source": "survey",
+    "source:date": "2024-09-15",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12178333714,
+    "lat": 13.8063167,
+    "lon": 100.5418998,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "level": "0",
+    "male": "yes",
+    "source": "survey",
+    "source:date": "2024-09-15",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12179474943,
+    "lat": 13.8056396,
+    "lon": 100.5424166,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "level": "0",
+    "male": "yes",
+    "source": "survey",
+    "source:date": "2024-09-15",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12179474954,
+    "lat": 13.8055927,
+    "lon": 100.5425507,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "level": "0",
+    "source": "survey",
+    "source:date": "2024-09-15",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12179537348,
+    "lat": 13.8038124,
+    "lon": 100.5424877,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "level": "0",
+    "source": "survey",
+    "source:date": "2024-09-15",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12182875679,
+    "lat": 13.6203297,
+    "lon": 100.4393876,
+    "access": "yes",
+    "amenity": "toilets",
+    "ref": "1",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12335293686,
+    "lat": 13.9511181,
+    "lon": 100.6271508,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12344416826,
+    "lat": 13.736267,
+    "lon": 100.5428629,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12344434848,
+    "lat": 13.7318511,
+    "lon": 100.5225583,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12428810705,
+    "lat": 13.7438541,
+    "lon": 100.501041,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12428810758,
+    "lat": 13.8069658,
+    "lon": 100.5522556,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12428813604,
+    "lat": 13.7455867,
+    "lon": 100.5001,
+    "access": "customers",
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12429984201,
+    "lat": 13.7344392,
+    "lon": 100.5116201,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12432280103,
+    "lat": 13.7319211,
+    "lon": 100.4620455,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12432302901,
+    "lat": 13.7308274,
+    "lon": 100.4633717,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12433325601,
+    "lat": 13.7415751,
+    "lon": 100.5112411,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12433617701,
+    "lat": 13.7662546,
+    "lon": 100.4879015,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12434876601,
+    "lat": 13.7982647,
+    "lon": 100.5476661,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12438376102,
+    "lat": 13.723751,
+    "lon": 100.552847,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12443462801,
+    "lat": 13.7476634,
+    "lon": 100.4958402,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "level": "0",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12444130494,
+    "lat": 13.8026309,
+    "lon": 100.3240418,
+    "access": "yes",
+    "amenity": "toilets",
+    "charge": "3 THB",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "source": "survey",
+    "source:date": "2024-12-23",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12453003850,
+    "lat": 13.7864885,
+    "lon": 100.4674638,
+    "access": "yes",
+    "amenity": "toilets",
+    "female": "yes",
+    "source": "survey",
+    "source:date": "2024-12-26",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12453003851,
+    "lat": 13.7864377,
+    "lon": 100.4674558,
+    "access": "yes",
+    "amenity": "toilets",
+    "male": "yes",
+    "source": "survey",
+    "source:date": "2024-12-26",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12486021408,
+    "lat": 13.904685,
+    "lon": 100.6549144,
+    "access": "customers",
+    "amenity": "toilets",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12486021409,
+    "lat": 13.9047,
+    "lon": 100.6549929,
+    "access": "customers",
+    "amenity": "toilets",
+    "female": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12486643845,
+    "lat": 13.8494637,
+    "lon": 100.5693416,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "yes",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "toilets:disposal": "flush",
+    "toilets:paper_supplied": "yes",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12497450285,
+    "lat": 13.9292412,
+    "lon": 100.7063748,
+    "access": "customers",
+    "amenity": "toilets",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12508953901,
+    "lat": 13.7812408,
+    "lon": 100.6739952,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12511858591,
+    "lat": 13.7294512,
+    "lon": 100.4632683,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12529295514,
+    "lat": 13.6717264,
+    "lon": 100.5345612,
+    "access": "private",
+    "amenity": "toilets",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12587382404,
+    "lat": 13.7165641,
+    "lon": 100.653461,
+    "amenity": "toilets",
+    "fee": "no",
+    "toilets:disposal": "pitlatrine",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12597172072,
+    "lat": 13.6727215,
+    "lon": 100.5088542,
+    "access": "yes",
+    "amenity": "toilets",
+    "toilets:disposal": "chemical",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12600323801,
+    "lat": 13.7763785,
+    "lon": 100.6734014,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12606573304,
+    "lat": 13.6727232,
+    "lon": 100.5085271,
+    "amenity": "toilets",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12618164703,
+    "lat": 13.7771803,
+    "lon": 100.6723165,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12618164705,
+    "lat": 13.7775483,
+    "lon": 100.6728894,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12618208701,
+    "lat": 13.7755256,
+    "lon": 100.669575,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12618209102,
+    "lat": 13.7760196,
+    "lon": 100.6692473,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12618240501,
+    "lat": 13.7745091,
+    "lon": 100.6671107,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12618241201,
+    "lat": 13.775463,
+    "lon": 100.6661427,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12618254701,
+    "lat": 13.7760765,
+    "lon": 100.6668735,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12620399765,
+    "lat": 13.7346374,
+    "lon": 100.5116116,
+    "amenity": "toilets",
+    "check_date": "2025-12-06",
+    "fee": "no",
+    "portable": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12655907801,
+    "lat": 13.7521176,
+    "lon": 100.5015924,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12686646097,
+    "lat": 13.719074,
+    "lon": 100.6333789,
+    "access": "customers",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12686701894,
+    "lat": 13.7042301,
+    "lon": 100.6464235,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12694898053,
+    "lat": 13.6292544,
+    "lon": 100.5890845,
+    "amenity": "toilets",
+    "female": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12694898054,
+    "lat": 13.6291042,
+    "lon": 100.5890225,
+    "amenity": "toilets",
+    "male": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12694915010,
+    "lat": 13.6289906,
+    "lon": 100.5889001,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12695248597,
+    "lat": 13.6282436,
+    "lon": 100.5885887,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12702370701,
+    "lat": 13.7668894,
+    "lon": 100.5129214,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12710231557,
+    "lat": 13.721368,
+    "lon": 100.4705977,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12712708936,
+    "lat": 13.7383489,
+    "lon": 100.5135247,
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2025-12-07",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12712926147,
+    "lat": 13.7331139,
+    "lon": 100.5326602,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12800916597,
+    "lat": 13.7438608,
+    "lon": 100.4955254,
+    "amenity": "toilets",
+    "female": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12800916598,
+    "lat": 13.7439476,
+    "lon": 100.4955081,
+    "amenity": "toilets",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12806086186,
+    "lat": 13.783719,
+    "lon": 100.5276514,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12846645414,
+    "lat": 13.7601363,
+    "lon": 100.5289506,
+    "access": "private",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13017671101,
+    "lat": 13.6823081,
+    "lon": 100.7490116,
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13071787300,
+    "lat": 13.9933832,
+    "lon": 100.6751623,
+    "amenity": "toilets",
+    "male": "yes",
+    "name": "See Thru Toilet",
+    "toilets:position": "urinal"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13146190896,
+    "lat": 13.6872899,
+    "lon": 100.7534137,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13146517937,
+    "lat": 13.7293004,
+    "lon": 100.6463961,
+    "amenity": "toilets",
+    "changing_table": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13146517938,
+    "lat": 13.7290078,
+    "lon": 100.6466617,
+    "amenity": "toilets",
+    "changing_table": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13240837102,
+    "lat": 13.741498,
+    "lon": 100.5084122,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13247912234,
+    "lat": 13.7359043,
+    "lon": 100.5238175,
+    "amenity": "toilets",
+    "check_date": "2025-10-21"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13301142248,
+    "lat": 13.7643582,
+    "lon": 100.4976634,
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13301365845,
+    "lat": 13.7544917,
+    "lon": 100.5069889,
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13305852361,
+    "lat": 13.7888679,
+    "lon": 100.532315,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13305896216,
+    "lat": 13.7840223,
+    "lon": 100.5275072,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13343547101,
+    "lat": 13.6924492,
+    "lon": 100.7463502,
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "check_date": "2025-12-01",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13355392231,
+    "lat": 13.7307099,
+    "lon": 100.512849,
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "no",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "portable": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13355392234,
+    "lat": 13.7200224,
+    "lon": 100.5149236,
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "no",
+    "female": "yes",
+    "level": "2",
+    "male": "yes",
+    "portable": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13355916749,
+    "lat": 13.7275048,
+    "lon": 100.5326405,
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13357286487,
+    "lat": 13.7276042,
+    "lon": 100.514844,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13357286488,
+    "lat": 13.72705,
+    "lon": 100.5153503,
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "yes",
+    "male": "no",
+    "portable": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "limited"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13357299104,
+    "lat": 13.7349175,
+    "lon": 100.51117,
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13357299115,
+    "lat": 13.7229033,
+    "lon": 100.5154167,
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "portable": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13357299127,
+    "lat": 13.7269875,
+    "lon": 100.5153561,
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "no",
+    "male": "yes",
+    "portable": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "limited"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13359897898,
+    "lat": 13.7979863,
+    "lon": 100.5489081,
+    "amenity": "toilets",
+    "fee": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13360934773,
+    "lat": 13.741328,
+    "lon": 100.511441,
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "portable": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13369993386,
+    "lat": 13.9260475,
+    "lon": 100.5607176,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13393210091,
+    "lat": 13.8844537,
+    "lon": 100.4099013,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13393363823,
+    "lat": 13.9446192,
+    "lon": 100.772918,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13393410314,
+    "lat": 13.6868372,
+    "lon": 100.8761759,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13429112818,
+    "lat": 13.9196968,
+    "lon": 100.6215351,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13469337098,
+    "lat": 13.7393702,
+    "lon": 100.534272,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13505809277,
+    "lat": 13.81849,
+    "lon": 100.6465787,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13506827496,
+    "lat": 13.7586132,
+    "lon": 100.4900504,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13584896276,
+    "lat": 13.7186658,
+    "lon": 100.5973538,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13585012143,
+    "lat": 13.7131411,
+    "lon": 100.5953205,
+    "amenity": "toilets",
+    "fee": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13585014468,
+    "lat": 13.7786184,
+    "lon": 100.4781791,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13591684460,
+    "lat": 13.7504161,
+    "lon": 100.5046412,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13592903409,
+    "lat": 13.7543976,
+    "lon": 100.4893888,
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13592915771,
+    "lat": 13.7439929,
+    "lon": 100.4874627,
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "no",
+    "female": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13592936614,
+    "lat": 13.7439334,
+    "lon": 100.4872753,
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "no",
+    "male": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13596806599,
+    "lat": 13.7409531,
+    "lon": 100.4954901,
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13596819014,
+    "lat": 13.7533099,
+    "lon": 100.4886714,
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13596827916,
+    "lat": 13.755036,
+    "lon": 100.4757725,
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13598349250,
+    "lat": 13.7543385,
+    "lon": 100.5070397,
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13598423953,
+    "lat": 13.753742,
+    "lon": 100.5073255,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13602894362,
+    "lat": 13.7560793,
+    "lon": 100.4989285,
+    "amenity": "toilets",
+    "fee": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13602902682,
+    "lat": 13.7515715,
+    "lon": 100.5433797,
+    "amenity": "toilets",
+    "fee": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13605355082,
+    "lat": 13.738622,
+    "lon": 100.5044397,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13605391453,
+    "lat": 13.7882579,
+    "lon": 100.5019047,
+    "amenity": "toilets",
+    "changing_table": "yes",
+    "fee": "no",
+    "level": "0",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13608668844,
+    "lat": 13.7554834,
+    "lon": 100.5066938,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13608695596,
+    "lat": 13.7414062,
+    "lon": 100.5066608,
+    "amenity": "toilets",
+    "changing_table": "no",
+    "fee": "yes",
+    "level": "1",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13608725997,
+    "lat": 13.7537178,
+    "lon": 100.6551822,
+    "amenity": "toilets",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13608728734,
+    "lat": 13.7417605,
+    "lon": 100.507062,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13610679895,
+    "lat": 13.7504811,
+    "lon": 100.6566169,
+    "amenity": "toilets",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13613567716,
+    "lat": 13.7442004,
+    "lon": 100.500137,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13613580258,
+    "lat": 13.7443592,
+    "lon": 100.4995957,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13626552886,
+    "lat": 13.7464997,
+    "lon": 100.5466496,
+    "access": "customers",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13626552887,
+    "lat": 13.7462151,
+    "lon": 100.5473617,
+    "access": "customers",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13638006527,
+    "lat": 13.7441169,
+    "lon": 100.4935283,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13654155312,
+    "lat": 13.8385396,
+    "lon": 100.6347806,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13663918514,
+    "lat": 13.6822861,
+    "lon": 100.7476946,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13663920699,
+    "lat": 13.682952,
+    "lon": 100.7456308,
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13663930528,
+    "lat": 13.6812633,
+    "lon": 100.7525746,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13663930529,
+    "lat": 13.6827412,
+    "lon": 100.7464246,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13663931174,
+    "lat": 13.6816969,
+    "lon": 100.75068,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 13663931913,
+    "lat": 13.6819845,
+    "lon": 100.7496245,
+    "amenity": "toilets",
+    "fee": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 40348104,
+    "lat": 13.6961398,
+    "lon": 100.5635474,
+    "amenity": "toilets",
+    "building": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 152443650,
+    "lat": 13.9970129,
+    "lon": 100.6707651,
+    "amenity": "toilets",
+    "operator": "Caltex",
+    "source": "GPS; survey",
+    "toilets": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 158459638,
+    "lat": 13.9093223,
+    "lon": 100.5386085,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 191541557,
+    "lat": 13.8552396,
+    "lon": 100.8567467,
+    "addr:district": "หนองจอก",
+    "addr:postcode": "10530",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 199149573,
+    "lat": 13.7276044,
+    "lon": 100.5574549,
+    "access": "yes",
+    "addr:district": "คลองเตย",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตย",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 199149574,
+    "lat": 13.7313544,
+    "lon": 100.5572277,
+    "addr:district": "คลองเตย",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตย",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 199483587,
+    "lat": 13.73088,
+    "lon": 100.5682224,
+    "amenity": "toilets",
+    "area": "yes",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 245108910,
+    "lat": 13.9327113,
+    "lon": 100.5553206,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 245108914,
+    "lat": 13.929732,
+    "lon": 100.5518437,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 245108915,
+    "lat": 13.9326926,
+    "lon": 100.5515151,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 258879475,
+    "lat": 13.8481369,
+    "lon": 100.5674957,
+    "amenity": "toilets",
+    "building": "yes",
+    "source": "Bing, knowledge",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 259504629,
+    "lat": 13.8487255,
+    "lon": 100.5675464,
+    "access": "yes",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 261079962,
+    "lat": 13.7414331,
+    "lon": 100.5323045,
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ปทุมวัน",
+    "amenity": "toilets",
+    "building": "yes",
+    "female": "yes",
+    "name": "ห้องน้ำหญิง ตึก 60 ปี"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 261079970,
+    "lat": 13.741454,
+    "lon": 100.5321547,
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ปทุมวัน",
+    "amenity": "toilets",
+    "building": "yes",
+    "male": "yes",
+    "name": "ห้องน้ำชาย ตึก 60 ปี"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 272560760,
+    "lat": 13.7754968,
+    "lon": 100.508196,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 321073936,
+    "lat": 13.6240299,
+    "lon": 100.7115418,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 321575186,
+    "lat": 13.6564447,
+    "lon": 100.3937277,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 321576139,
+    "lat": 13.6557609,
+    "lon": 100.3932269,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 456883048,
+    "lat": 13.7045041,
+    "lon": 100.3408415,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 464334695,
+    "lat": 13.818461,
+    "lon": 100.5621745,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 464334696,
+    "lat": 13.8191813,
+    "lon": 100.560752,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 467955551,
+    "lat": 13.8194797,
+    "lon": 100.5924031,
+    "amenity": "toilets",
+    "building": "yes",
+    "female": "yes",
+    "male": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 475628744,
+    "lat": 13.9809358,
+    "lon": 100.5545906,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "0",
+    "name": "f_toilet",
+    "ref": "3101"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 475628748,
+    "lat": 13.9809434,
+    "lon": 100.5546186,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "0",
+    "name": "m_toilet",
+    "ref": "3102"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 475649406,
+    "lat": 13.9809357,
+    "lon": 100.5545906,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "3",
+    "name": "f_toilet",
+    "ref": "3401"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 475649407,
+    "lat": 13.9809433,
+    "lon": 100.5546186,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "3",
+    "name": "m_toilet",
+    "ref": "3402"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 475659023,
+    "lat": 13.9809432,
+    "lon": 100.5546186,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "1",
+    "name": "m_toilet",
+    "ref": "3204"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 475659027,
+    "lat": 13.9808306,
+    "lon": 100.5546849,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "1",
+    "name": "m_toilet",
+    "ref": "3210"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 475659029,
+    "lat": 13.9808296,
+    "lon": 100.5545858,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "1",
+    "name": "f_toilet",
+    "ref": "3213"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 475659040,
+    "lat": 13.9809355,
+    "lon": 100.5545906,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "1",
+    "name": "f_toilet",
+    "ref": "3203"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 475906647,
+    "lat": 13.9809354,
+    "lon": 100.5545906,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "2",
+    "name": "f_toilet",
+    "ref": "3301"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 475906652,
+    "lat": 13.9809431,
+    "lon": 100.5546187,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "2",
+    "name": "m_toilet",
+    "ref": "3302"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 476112073,
+    "lat": 13.9809356,
+    "lon": 100.5545906,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "4",
+    "name": "f_toilet",
+    "ref": "3503"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 476112074,
+    "lat": 13.9809433,
+    "lon": 100.5546184,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "4",
+    "name": "m_toilet",
+    "ref": "3504"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 476270771,
+    "lat": 13.9801695,
+    "lon": 100.5548287,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "0"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 476270773,
+    "lat": 13.9804087,
+    "lon": 100.5548751,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "0"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 476270777,
+    "lat": 13.9802195,
+    "lon": 100.5550218,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "0",
+    "name": "m_toilet",
+    "ref": "2G10"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 476270780,
+    "lat": 13.98025,
+    "lon": 100.5550282,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "0",
+    "name": "f_toilet",
+    "ref": "2G09"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 476921140,
+    "lat": 13.98025,
+    "lon": 100.5550283,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "2",
+    "name": "f_toilet",
+    "ref": "2303"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 476921143,
+    "lat": 13.9802195,
+    "lon": 100.5550218,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "2",
+    "name": "m_toilet",
+    "ref": "2304"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 477069249,
+    "lat": 13.98025,
+    "lon": 100.5550283,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "3",
+    "name": "f_toilet",
+    "ref": "2404"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 477069250,
+    "lat": 13.9802195,
+    "lon": 100.5550218,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "3",
+    "name": "m_toilet",
+    "ref": "2405"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 477071956,
+    "lat": 13.9802194,
+    "lon": 100.5550218,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "4",
+    "name": "m_toilet",
+    "ref": "2505"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 477071959,
+    "lat": 13.98025,
+    "lon": 100.5550283,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "4",
+    "name": "f_toilet",
+    "ref": "2504"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 543460278,
+    "lat": 13.8426009,
+    "lon": 100.4913316,
+    "amenity": "toilets",
+    "building": "yes",
+    "name": "Toilet",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 548854353,
+    "lat": 13.7677155,
+    "lon": 100.5054837,
+    "access": "yes",
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "บางขุนพรหม",
+    "amenity": "toilets",
+    "building": "service",
+    "fee": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 550653732,
+    "lat": 13.9545987,
+    "lon": 100.4869565,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 559981056,
+    "lat": 13.7997413,
+    "lon": 100.5532589,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 559981058,
+    "lat": 13.7994082,
+    "lon": 100.5539507,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 625745592,
+    "lat": 13.7874135,
+    "lon": 100.6782681,
+    "addr:district": "คันนายาว",
+    "addr:postcode": "10230",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "รามอินทรา",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 625852490,
+    "lat": 13.7856985,
+    "lon": 100.6733178,
+    "addr:district": "บึงกุ่ม",
+    "addr:postcode": "10240",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองกุ่ม",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 657461348,
+    "lat": 13.8262951,
+    "lon": 100.4757397,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 663435178,
+    "lat": 13.7419717,
+    "lon": 100.5342538,
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ปทุมวัน",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 663435179,
+    "lat": 13.7415796,
+    "lon": 100.5349502,
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ปทุมวัน",
+    "amenity": "toilets",
+    "building": "yes",
+    "female": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 663435180,
+    "lat": 13.7414654,
+    "lon": 100.5349322,
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ปทุมวัน",
+    "amenity": "toilets",
+    "building": "yes",
+    "male": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 663435183,
+    "lat": 13.7409947,
+    "lon": 100.5307161,
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ปทุมวัน",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 674607320,
+    "lat": 13.8085344,
+    "lon": 100.6933407,
+    "addr:district": "คันนายาว",
+    "addr:postcode": "10230",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คันนายาว",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 823025447,
+    "lat": 13.7431979,
+    "lon": 100.4978377,
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "male": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 823025448,
+    "lat": 13.7437429,
+    "lon": 100.4981849,
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 856663511,
+    "lat": 13.7463478,
+    "lon": 100.5524909,
+    "access": "yes",
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "0",
+    "name": "toilet-1",
+    "room": "toilets"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 856663518,
+    "lat": 13.7460061,
+    "lon": 100.5521727,
+    "access": "yes",
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "0",
+    "room": "toilets"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 857107574,
+    "lat": 13.7456507,
+    "lon": 100.5527218,
+    "amenity": "toilets",
+    "level": "0"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 857107575,
+    "lat": 13.7457479,
+    "lon": 100.5528352,
+    "amenity": "toilets",
+    "level": "0"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 857138443,
+    "lat": 13.7460292,
+    "lon": 100.5516305,
+    "amenity": "toilets",
+    "icon": "toilets",
+    "indoor": "room",
+    "level": "0"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 857138466,
+    "lat": 13.7455971,
+    "lon": 100.551704,
+    "amenity": "toilets",
+    "icon": "toilets",
+    "indoor": "room",
+    "level": "0"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 859189840,
+    "lat": 13.7457768,
+    "lon": 100.552369,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "1"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 859189859,
+    "lat": 13.7466168,
+    "lon": 100.5522586,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "1"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 902862441,
+    "lat": 13.720363,
+    "lon": 100.8632978,
+    "addr:district": "ลาดกระบัง",
+    "addr:postcode": "10520",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 902904168,
+    "lat": 13.7282534,
+    "lon": 100.7825654,
+    "addr:district": "ลาดกระบัง",
+    "addr:postcode": "10520",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 913503139,
+    "lat": 13.7148423,
+    "lon": 100.5400525,
+    "access": "customers",
+    "addr:district": "สาทร",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ทุ่งมหาเมฆ",
+    "amenity": "toilets",
+    "building": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 944287422,
+    "lat": 13.8290576,
+    "lon": 100.4869176,
+    "amenity": "toilets",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 975391312,
+    "lat": 13.8426003,
+    "lon": 100.4913319,
+    "access": "yes",
+    "amenity": "toilets",
+    "building": "yes",
+    "layer": "1",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1038716544,
+    "lat": 13.8660089,
+    "lon": 100.6543392,
+    "addr:district": "บางเขน",
+    "addr:postcode": "10220",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ท่าแร้ง",
+    "amenity": "toilets",
+    "building": "yes",
+    "fee": "no",
+    "import": "grabremote",
+    "shower": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1049141307,
+    "lat": 13.7269978,
+    "lon": 100.7712832,
+    "access": "yes",
+    "addr:district": "ลาดกระบัง",
+    "addr:postcode": "10520",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "check_date": "2023-01-21",
+    "fee": "no",
+    "opening_hours": "24/7",
+    "toilets:handwashing": "yes",
+    "unisex": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1049502406,
+    "lat": 13.7996486,
+    "lon": 100.3196445,
+    "access": "permit",
+    "amenity": "toilets",
+    "building": "yes",
+    "female": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1049502407,
+    "lat": 13.799585,
+    "lon": 100.3196396,
+    "access": "permit",
+    "amenity": "toilets",
+    "building": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1050577710,
+    "lat": 13.7274806,
+    "lon": 100.7647889,
+    "addr:district": "ลาดกระบัง",
+    "addr:postcode": "10520",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "fee": "no",
+    "unisex": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1053237078,
+    "lat": 13.7271911,
+    "lon": 100.7630751,
+    "addr:district": "ลาดกระบัง",
+    "addr:postcode": "10520",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes",
+    "unisex": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1053718718,
+    "lat": 13.7199085,
+    "lon": 100.7807117,
+    "access": "yes",
+    "addr:district": "ลาดกระบัง",
+    "addr:postcode": "10520",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "check_date": "2022-03-02",
+    "fee": "no",
+    "unisex": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1081191352,
+    "lat": 13.7429803,
+    "lon": 100.5252213,
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วังใหม่",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1085058342,
+    "lat": 13.7254185,
+    "lon": 100.7638039,
+    "access": "customers",
+    "addr:district": "ลาดกระบัง",
+    "addr:postcode": "10520",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes",
+    "wheelchair": "limited"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1085060641,
+    "lat": 13.7255792,
+    "lon": 100.7635798,
+    "access": "customers",
+    "addr:district": "ลาดกระบัง",
+    "addr:postcode": "10520",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes",
+    "wheelchair": "limited"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1087817585,
+    "lat": 13.727461,
+    "lon": 100.5531036,
+    "addr:district": "คลองเตย",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตย",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1087817586,
+    "lat": 13.7298756,
+    "lon": 100.5564816,
+    "addr:district": "คลองเตย",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตย",
+    "amenity": "toilets",
+    "building": "yes",
+    "ref": "2",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1117548266,
+    "lat": 13.7332236,
+    "lon": 100.5572327,
+    "access": "yes",
+    "addr:district": "คลองเตย",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตย",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1119161498,
+    "lat": 13.7294269,
+    "lon": 100.5528605,
+    "addr:district": "คลองเตย",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตย",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1119612140,
+    "lat": 13.7299427,
+    "lon": 100.5549499,
+    "addr:district": "คลองเตย",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตย",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1120046892,
+    "lat": 13.7322168,
+    "lon": 100.5561422,
+    "access": "yes",
+    "addr:district": "คลองเตย",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตย",
+    "amenity": "toilets",
+    "building": "yes",
+    "fee": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1126449538,
+    "lat": 13.7458809,
+    "lon": 100.4486495,
+    "amenity": "toilets",
+    "building": "yes",
+    "source": "microsoft/BuildingFootprints"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1126484644,
+    "lat": 13.745429,
+    "lon": 100.7471204,
+    "access": "yes",
+    "amenity": "toilets",
+    "check_date": "2023-01-02",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1130909759,
+    "lat": 13.7300605,
+    "lon": 100.6467212,
+    "access": "customers",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1131083930,
+    "lat": 13.7157137,
+    "lon": 100.4630358,
+    "amenity": "toilets",
+    "building": "yes",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1132396585,
+    "lat": 13.7328665,
+    "lon": 100.540036,
+    "access": "yes",
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ลุมพินี",
+    "amenity": "toilets",
+    "building": "yes",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1134493805,
+    "lat": 13.7127429,
+    "lon": 100.7840968,
+    "access": "yes",
+    "amenity": "toilets",
+    "changing_table": "no",
+    "check_date": "2023-01-23",
+    "fee": "no",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1135386424,
+    "lat": 13.7887924,
+    "lon": 100.4699883,
+    "access": "permissive",
+    "amenity": "toilets",
+    "building": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:position": "seated;urinal"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1135409113,
+    "lat": 13.7892951,
+    "lon": 100.4718163,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1142189816,
+    "lat": 13.7530037,
+    "lon": 100.4430254,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1154262034,
+    "lat": 13.7270526,
+    "lon": 100.7696835,
+    "access": "yes",
+    "addr:district": "ลาดกระบัง",
+    "addr:postcode": "10520",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes",
+    "fee": "no",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1155718217,
+    "lat": 13.6034034,
+    "lon": 100.712405,
+    "access": "yes",
+    "amenity": "toilets",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1155722192,
+    "lat": 13.6047646,
+    "lon": 100.7111303,
+    "access": "yes",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1155726545,
+    "lat": 13.6047648,
+    "lon": 100.7109654,
+    "access": "yes",
+    "amenity": "toilets"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1158992364,
+    "lat": 13.9363422,
+    "lon": 100.7392053,
+    "amenity": "toilets",
+    "building": "yes",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1160632711,
+    "lat": 13.7009549,
+    "lon": 100.6881634,
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1173983717,
+    "lat": 13.7330104,
+    "lon": 100.5417407,
+    "access": "yes",
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ลุมพินี",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1188055932,
+    "lat": 13.7318685,
+    "lon": 100.5384007,
+    "access": "yes",
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ลุมพินี",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1194923893,
+    "lat": 13.751442,
+    "lon": 100.5005547,
+    "access": "yes",
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วัดราชบพิธ",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1194925691,
+    "lat": 13.7508194,
+    "lon": 100.5004889,
+    "access": "yes",
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วัดราชบพิธ",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1200042657,
+    "lat": 13.7317115,
+    "lon": 100.5289298,
+    "access": "yes",
+    "addr:district": "บางรัก",
+    "addr:postcode": "10500",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "สี่พระยา",
+    "amenity": "toilets",
+    "building": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "limited"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1211300800,
+    "lat": 13.7171725,
+    "lon": 100.5409295,
+    "access": "private",
+    "addr:district": "สาทร",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ทุ่งมหาเมฆ",
+    "amenity": "toilets",
+    "building": "yes",
+    "female": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1211300810,
+    "lat": 13.7177121,
+    "lon": 100.5406321,
+    "access": "private",
+    "addr:district": "สาทร",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ทุ่งมหาเมฆ",
+    "amenity": "toilets",
+    "building": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1216274724,
+    "lat": 13.809863,
+    "lon": 100.6203802,
+    "access": "yes",
+    "addr:district": "บางกะปิ",
+    "addr:postcode": "10240",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองจั่น",
+    "amenity": "toilets",
+    "building": "yes",
+    "portable": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal",
+    "unisex": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1216802730,
+    "lat": 13.8139454,
+    "lon": 100.7148295,
+    "amenity": "toilets",
+    "building": "yes",
+    "male": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1217271721,
+    "lat": 13.716357,
+    "lon": 100.5324496,
+    "access": "yes",
+    "addr:district": "สาทร",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ยานนาวา",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1217530823,
+    "lat": 13.864861,
+    "lon": 100.6408139,
+    "addr:district": "บางเขน",
+    "addr:postcode": "10220",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ท่าแร้ง",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1220224839,
+    "lat": 13.7232879,
+    "lon": 100.5368678,
+    "access": "customers",
+    "addr:district": "สาทร",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ทุ่งมหาเมฆ",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1220317422,
+    "lat": 13.7195945,
+    "lon": 100.5361463,
+    "access": "private",
+    "addr:district": "สาทร",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ทุ่งมหาเมฆ",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1223464466,
+    "lat": 13.7464116,
+    "lon": 100.4902571,
+    "access": "customers",
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "พระบรมมหาราชวัง",
+    "amenity": "toilets",
+    "building": "yes",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1225168188,
+    "lat": 13.7322877,
+    "lon": 100.5450113,
+    "access": "yes",
+    "addr:district": "ปทุมวัน",
+    "addr:postcode": "10330",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ลุมพินี",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "source": "survey",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1232602703,
+    "lat": 13.7585651,
+    "lon": 100.6254178,
+    "addr:district": "บางกะปิ",
+    "addr:postcode": "10240",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "หัวหมาก",
+    "amenity": "toilets",
+    "building": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1232602713,
+    "lat": 13.7568884,
+    "lon": 100.6219877,
+    "addr:district": "บางกะปิ",
+    "addr:postcode": "10240",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "หัวหมาก",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1236191165,
+    "lat": 13.9102482,
+    "lon": 100.5133356,
+    "access": "private",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1238743757,
+    "lat": 13.6988536,
+    "lon": 100.527689,
+    "access": "private",
+    "addr:district": "บางคอแหลม",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "บางโคล่",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1238765288,
+    "lat": 13.6980741,
+    "lon": 100.5287939,
+    "access": "private",
+    "addr:district": "บางคอแหลม",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "บางโคล่",
+    "amenity": "toilets",
+    "building": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1239588060,
+    "lat": 13.700597,
+    "lon": 100.5241156,
+    "access": "yes",
+    "addr:district": "บางคอแหลม",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "บางโคล่",
+    "amenity": "toilets",
+    "building": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1250003083,
+    "lat": 13.926167,
+    "lon": 100.6270148,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1250152345,
+    "lat": 13.7322885,
+    "lon": 100.7157608,
+    "addr:district": "ลาดกระบัง",
+    "addr:postcode": "10520",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1263967221,
+    "lat": 13.6621539,
+    "lon": 100.5511873,
+    "access": "yes",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1263967222,
+    "lat": 13.6618896,
+    "lon": 100.5497953,
+    "access": "yes",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1280098809,
+    "lat": 13.9393275,
+    "lon": 100.4523642,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1280098812,
+    "lat": 13.9366078,
+    "lon": 100.4555876,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1280098817,
+    "lat": 13.940753,
+    "lon": 100.4510784,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1296049722,
+    "lat": 13.7640716,
+    "lon": 100.4962003,
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ชนะสงคราม",
+    "amenity": "toilets",
+    "building": "yes",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1296355249,
+    "lat": 13.6078667,
+    "lon": 100.5076125,
+    "access": "customers",
+    "addr:district": "ทุ่งครุ",
+    "addr:postcode": "10140",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "charge": "2 THB",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1304283361,
+    "lat": 13.7413607,
+    "lon": 100.550894,
+    "access": "yes",
+    "addr:district": "คลองเตย",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตย",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1304380717,
+    "lat": 13.7320904,
+    "lon": 100.551919,
+    "access": "yes",
+    "addr:district": "คลองเตย",
+    "addr:postcode": "10110",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองเตย",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1316237595,
+    "lat": 13.6179031,
+    "lon": 100.4408102,
+    "access": "yes",
+    "addr:district": "บางขุนเทียน",
+    "addr:postcode": "10150",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ท่าข้าม",
+    "amenity": "toilets",
+    "building": "yes",
+    "ref": "2",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1316237596,
+    "lat": 13.617935,
+    "lon": 100.4391605,
+    "access": "yes",
+    "addr:district": "บางขุนเทียน",
+    "addr:postcode": "10150",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ท่าข้าม",
+    "amenity": "toilets",
+    "building": "yes",
+    "ref": "3",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1317939911,
+    "lat": 13.7291956,
+    "lon": 100.7753889,
+    "amenity": "toilets",
+    "female": "yes",
+    "level": "0-8",
+    "male": "no",
+    "unisex": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1317939912,
+    "lat": 13.7291196,
+    "lon": 100.7753893,
+    "amenity": "toilets",
+    "female": "no",
+    "level": "0-8",
+    "male": "yes",
+    "unisex": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1317942551,
+    "lat": 13.7292008,
+    "lon": 100.7757453,
+    "amenity": "toilets",
+    "female": "yes",
+    "level": "4-8",
+    "male": "no",
+    "unisex": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1317942552,
+    "lat": 13.7291207,
+    "lon": 100.7757458,
+    "amenity": "toilets",
+    "female": "no",
+    "level": "4-8",
+    "male": "yes",
+    "unisex": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1319867504,
+    "lat": 13.7655591,
+    "lon": 100.5547248,
+    "addr:district": "ดินแดง",
+    "addr:postcode": "10400",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ดินแดง",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1320974951,
+    "lat": 13.8482133,
+    "lon": 100.5720563,
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "no",
+    "indoor": "room",
+    "level": "0",
+    "male": "yes",
+    "room": "toilets",
+    "unisex": "no",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321797168,
+    "lat": 13.8481563,
+    "lon": 100.5720653,
+    "amenity": "toilets",
+    "female": "yes",
+    "indoor": "room",
+    "level": "0",
+    "male": "no",
+    "room": "toilet",
+    "unisex": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321797222,
+    "lat": 13.8482692,
+    "lon": 100.5720953,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "0",
+    "room": "toilets"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321797223,
+    "lat": 13.8482644,
+    "lon": 100.5721183,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "0",
+    "room": "toilet"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321843141,
+    "lat": 13.8481563,
+    "lon": 100.5720653,
+    "amenity": "toilets",
+    "female": "yes",
+    "indoor": "room",
+    "level": "1",
+    "male": "no",
+    "unisex": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321843142,
+    "lat": 13.8482133,
+    "lon": 100.5720563,
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "no",
+    "indoor": "room",
+    "level": "1",
+    "male": "yes",
+    "room": "toilets",
+    "unisex": "no",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321843143,
+    "lat": 13.8482133,
+    "lon": 100.5720563,
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "no",
+    "indoor": "room",
+    "level": "2",
+    "male": "yes",
+    "room": "toilets",
+    "unisex": "no",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321843144,
+    "lat": 13.8482133,
+    "lon": 100.5720563,
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "no",
+    "indoor": "room",
+    "level": "3",
+    "male": "yes",
+    "room": "toilets",
+    "unisex": "no",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321843147,
+    "lat": 13.8481563,
+    "lon": 100.5720653,
+    "amenity": "toilets",
+    "female": "yes",
+    "indoor": "room",
+    "level": "2",
+    "male": "no",
+    "room": "toilet",
+    "unisex": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321843148,
+    "lat": 13.8481563,
+    "lon": 100.5720653,
+    "amenity": "toilets",
+    "female": "yes",
+    "indoor": "room",
+    "level": "3",
+    "male": "no",
+    "room": "toilet",
+    "unisex": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321843149,
+    "lat": 13.8481601,
+    "lon": 100.5720653,
+    "amenity": "toilets",
+    "female": "yes",
+    "indoor": "room",
+    "level": "4",
+    "male": "no",
+    "room": "toilet",
+    "unisex": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321843151,
+    "lat": 13.8482309,
+    "lon": 100.5720666,
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "no",
+    "indoor": "room",
+    "level": "4",
+    "male": "yes",
+    "room": "toilets",
+    "unisex": "no",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321938004,
+    "lat": 13.8482615,
+    "lon": 100.5721127,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "1"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321938005,
+    "lat": 13.8482363,
+    "lon": 100.5721123,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "1"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321958184,
+    "lat": 13.8482363,
+    "lon": 100.5721123,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "2"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1321958185,
+    "lat": 13.8482615,
+    "lon": 100.5721127,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "2"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1322087108,
+    "lat": 13.8483738,
+    "lon": 100.5719634,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "3"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1322087116,
+    "lat": 13.8482615,
+    "lon": 100.5721127,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "3"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1322087117,
+    "lat": 13.8482363,
+    "lon": 100.5721123,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "3"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1322088659,
+    "lat": 13.7634633,
+    "lon": 100.5531817,
+    "access": "private",
+    "addr:district": "ดินแดง",
+    "addr:postcode": "10400",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ดินแดง",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1322088660,
+    "lat": 13.7637169,
+    "lon": 100.5526598,
+    "access": "private",
+    "addr:district": "ดินแดง",
+    "addr:postcode": "10400",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ดินแดง",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1322088661,
+    "lat": 13.7624861,
+    "lon": 100.5529381,
+    "access": "private",
+    "addr:district": "ดินแดง",
+    "addr:postcode": "10400",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ดินแดง",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1322088662,
+    "lat": 13.7624139,
+    "lon": 100.5529016,
+    "access": "private",
+    "addr:district": "ดินแดง",
+    "addr:postcode": "10400",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ดินแดง",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1322109718,
+    "lat": 13.8481741,
+    "lon": 100.571636,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "4"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1322109719,
+    "lat": 13.8481727,
+    "lon": 100.571596,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "4"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1331253673,
+    "lat": 13.7859189,
+    "lon": 100.4472248,
+    "access": "yes",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1333533917,
+    "lat": 13.6513467,
+    "lon": 100.4893892,
+    "access": "yes",
+    "addr:district": "ทุ่งครุ",
+    "addr:postcode": "10140",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1333533937,
+    "lat": 13.6518285,
+    "lon": 100.4926233,
+    "access": "yes",
+    "addr:district": "ทุ่งครุ",
+    "addr:postcode": "10140",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1335094331,
+    "lat": 13.6052913,
+    "lon": 100.616101,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1344370560,
+    "lat": 13.8125386,
+    "lon": 100.5518184,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1346115758,
+    "lat": 13.7082681,
+    "lon": 100.5484836,
+    "access": "yes",
+    "addr:district": "ยานนาวา",
+    "addr:postcode": "10120",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "ช่องนนทรี",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1352015507,
+    "lat": 13.6801877,
+    "lon": 100.5498366,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1353945583,
+    "lat": 13.6723827,
+    "lon": 100.5357284,
+    "access": "private",
+    "amenity": "toilets",
+    "building": "school",
+    "female": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1353945584,
+    "lat": 13.6728761,
+    "lon": 100.5360433,
+    "access": "private",
+    "amenity": "toilets",
+    "building": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1354789611,
+    "lat": 13.7043646,
+    "lon": 100.823514,
+    "addr:district": "ลาดกระบัง",
+    "addr:postcode": "10520",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes",
+    "building:levels": "1",
+    "female": "yes",
+    "roof:orientation": "along",
+    "roof:shape": "gabled"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1354789613,
+    "lat": 13.7042439,
+    "lon": 100.8235729,
+    "addr:district": "ลาดกระบัง",
+    "addr:postcode": "10520",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes",
+    "building:levels": "1",
+    "male": "yes",
+    "roof:orientation": "along",
+    "roof:shape": "gabled"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1354822595,
+    "lat": 13.7041839,
+    "lon": 100.8235898,
+    "addr:district": "ลาดกระบัง",
+    "addr:postcode": "10520",
+    "addr:province": "กรุงเทพมหานคร",
+    "amenity": "toilets",
+    "building": "yes",
+    "building:levels": "1",
+    "roof:shape": "skillion",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1359264623,
+    "lat": 13.7168629,
+    "lon": 100.6505477,
+    "amenity": "toilets",
+    "building": "yes",
+    "fee": "no",
+    "wheelchair": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1359292226,
+    "lat": 13.7250805,
+    "lon": 100.6588349,
+    "access": "yes",
+    "amenity": "toilets",
+    "building": "yes",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1359834163,
+    "lat": 13.688569,
+    "lon": 100.6457494,
+    "access": "customers",
+    "amenity": "toilets",
+    "building": "yes",
+    "fee": "yes",
+    "layer": "1",
+    "toilets:disposal": "flush",
+    "unisex": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1362628551,
+    "lat": 13.7818409,
+    "lon": 100.6688099,
+    "addr:district": "บึงกุ่ม",
+    "addr:postcode": "10240",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "คลองกุ่ม",
+    "amenity": "toilets",
+    "building": "yes",
+    "fee": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1366018686,
+    "lat": 13.8143377,
+    "lon": 100.56181,
+    "amenity": "toilets",
+    "indoor": "room",
+    "level": "0"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1383500057,
+    "lat": 13.7315157,
+    "lon": 100.5672747,
+    "access": "yes",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1387755626,
+    "lat": 13.7590631,
+    "lon": 100.5288398,
+    "access": "private",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1387755632,
+    "lat": 13.7596118,
+    "lon": 100.5295383,
+    "access": "private",
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1391250736,
+    "lat": 13.7188337,
+    "lon": 100.5766984,
+    "access": "customers",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "female": "yes",
+    "male": "yes",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:menstrual_products": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1391346674,
+    "lat": 13.7571536,
+    "lon": 100.6248677,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1411867229,
+    "lat": 13.8160188,
+    "lon": 100.5150488,
+    "amenity": "toilets",
+    "building": "yes",
+    "fee": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1414104733,
+    "lat": 13.7742314,
+    "lon": 100.5069034,
+    "amenity": "toilets",
+    "building": "university",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1427711842,
+    "lat": 13.7783265,
+    "lon": 100.5436229,
+    "access": "yes",
+    "amenity": "toilets",
+    "building": "yes",
+    "toilets:disposal": "flush"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1451888148,
+    "lat": 13.7490628,
+    "lon": 100.4969148,
+    "addr:district": "พระนคร",
+    "addr:postcode": "10200",
+    "addr:province": "กรุงเทพมหานคร",
+    "addr:subdistrict": "วัดราชบพิธ",
+    "amenity": "toilets",
+    "building": "yes",
+    "image": "https://images.mapillary.com/_se4GGMhUZdyosXzlLv0mw/thumb-2048.jpg",
+    "mapillary": "808756026419180"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1456794231,
+    "lat": 13.7270834,
+    "lon": 100.747092,
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "no",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "opening_hours": "24/7",
+    "payment:coins": "yes",
+    "portable": "no",
+    "toilets:disposal": "flush",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated",
+    "wheelchair": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1460529248,
+    "lat": 13.9339714,
+    "lon": 100.6983337,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1472549579,
+    "lat": 13.9666945,
+    "lon": 100.5128903,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1472611336,
+    "lat": 13.9886333,
+    "lon": 100.4722388,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1484575816,
+    "lat": 13.754359,
+    "lon": 100.7683497,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1485727367,
+    "lat": 13.7376673,
+    "lon": 100.5580896,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1487102365,
+    "lat": 13.8206109,
+    "lon": 100.6425139,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1487599252,
+    "lat": 13.7633356,
+    "lon": 100.4904141,
+    "amenity": "toilets",
+    "building": "yes",
+    "fee": "no"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1489681523,
+    "lat": 13.8405452,
+    "lon": 100.6389464,
+    "amenity": "toilets",
+    "building": "yes"
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 1489684634,
+    "lat": 13.8353574,
+    "lon": 100.6331911,
+    "amenity": "toilets",
+    "building": "yes"
+  }
+]
